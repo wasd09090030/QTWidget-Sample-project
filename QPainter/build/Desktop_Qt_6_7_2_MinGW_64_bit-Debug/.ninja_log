@@ -1,0 +1,17 @@
+# ninja log v6
+21	562	7617370515199528	QPainter_autogen/timestamp	ab913b30cab36cce
+21	562	7617370515199528	QPainter_autogen/mocs_compilation.cpp	ab913b30cab36cce
+21	562	7617370515199528	E:/CODE/QT/QPainter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPainter_autogen/timestamp	ab913b30cab36cce
+21	562	7617370515199528	E:/CODE/QT/QPainter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPainter_autogen/mocs_compilation.cpp	ab913b30cab36cce
+570	3067	7617370515954779	CMakeFiles/QPainter.dir/main.cpp.obj	eab125ec5c2242e6
+567	3075	7617370515920579	CMakeFiles/QPainter.dir/QPainter_autogen/mocs_compilation.cpp.obj	e513af686e65b6c1
+573	3080	7617370515986079	CMakeFiles/QPainter.dir/mainwindow.cpp.obj	d6dd79bef82bba04
+3080	3788	7617370541045889	QPainter.exe	947d1fccc001aac6
+34	485	7617410366635542	QPainter_autogen/timestamp	ab913b30cab36cce
+34	485	7617410366635542	QPainter_autogen/mocs_compilation.cpp	ab913b30cab36cce
+34	485	7617410366635542	E:/CODE/QT/QPainter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPainter_autogen/timestamp	ab913b30cab36cce
+34	485	7617410366635542	E:/CODE/QT/QPainter/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPainter_autogen/mocs_compilation.cpp	ab913b30cab36cce
+485	2605	7617410367360776	CMakeFiles/QPainter.dir/QPainter_autogen/mocs_compilation.cpp.obj	e513af686e65b6c1
+489	2677	7617410367394684	CMakeFiles/QPainter.dir/main.cpp.obj	eab125ec5c2242e6
+492	2726	7617410367424770	CMakeFiles/QPainter.dir/mainwindow.cpp.obj	d6dd79bef82bba04
+2726	2911	7617410389774243	QPainter.exe	947d1fccc001aac6

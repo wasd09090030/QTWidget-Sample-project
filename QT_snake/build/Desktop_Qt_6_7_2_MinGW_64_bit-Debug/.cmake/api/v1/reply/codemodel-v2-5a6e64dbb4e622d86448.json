@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fb005494877d98d00639.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT_snake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_snake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_snake-Debug-9c56e0d5b25ef41d126c.json",
+					"name" : "QT_snake",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_snake_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_snake_autogen-Debug-1ba30d1819e890657c45.json",
+					"name" : "QT_snake_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_snake_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_snake_autogen_timestamp_deps-Debug-5da6b0523b4202764406.json",
+					"name" : "QT_snake_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "E:/CODE/QT/QT_snake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

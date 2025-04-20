@@ -1,0 +1,23 @@
+# ninja log v6
+5	636	7615668213559510	QPictureViewer_autogen/timestamp	5c936d356d782318
+5	636	7615668213559510	QPictureViewer_autogen/mocs_compilation.cpp	5c936d356d782318
+5	636	7615668213559510	E:/CODE/QT/QPictureViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPictureViewer_autogen/timestamp	5c936d356d782318
+5	636	7615668213559510	E:/CODE/QT/QPictureViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPictureViewer_autogen/mocs_compilation.cpp	5c936d356d782318
+646	3510	7615668214497679	CMakeFiles/QPictureViewer.dir/main.cpp.obj	ec40b339140e9203
+651	3560	7615668214542460	CMakeFiles/QPictureViewer.dir/mainwindow.cpp.obj	2865e6f7b1cfd490
+643	3655	7615668214464929	CMakeFiles/QPictureViewer.dir/QPictureViewer_autogen/mocs_compilation.cpp.obj	8b7602a4ad897dc9
+3657	3842	7615668244604131	QPictureViewer.exe	1a554b2ba1f38750
+29	162	7615668747652353	QPictureViewer_autogen/timestamp	5c936d356d782318
+29	162	7615668747652353	QPictureViewer_autogen/mocs_compilation.cpp	5c936d356d782318
+29	162	7615668747652353	E:/CODE/QT/QPictureViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPictureViewer_autogen/timestamp	5c936d356d782318
+29	162	7615668747652353	E:/CODE/QT/QPictureViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPictureViewer_autogen/mocs_compilation.cpp	5c936d356d782318
+163	2156	7615668748994703	CMakeFiles/QPictureViewer.dir/mainwindow.cpp.obj	2865e6f7b1cfd490
+2156	2312	7615668768928559	QPictureViewer.exe	1a554b2ba1f38750
+33	552	7615683350267692	QPictureViewer_autogen/timestamp	5c936d356d782318
+33	552	7615683350267692	QPictureViewer_autogen/mocs_compilation.cpp	5c936d356d782318
+33	552	7615683350267692	E:/CODE/QT/QPictureViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPictureViewer_autogen/timestamp	5c936d356d782318
+33	552	7615683350267692	E:/CODE/QT/QPictureViewer/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QPictureViewer_autogen/mocs_compilation.cpp	5c936d356d782318
+556	3164	7615683351100518	CMakeFiles/QPictureViewer.dir/main.cpp.obj	ec40b339140e9203
+560	3247	7615683351139393	CMakeFiles/QPictureViewer.dir/mainwindow.cpp.obj	2865e6f7b1cfd490
+553	3265	7615683351070516	CMakeFiles/QPictureViewer.dir/QPictureViewer_autogen/mocs_compilation.cpp.obj	8b7602a4ad897dc9
+3265	3477	7615683378182234	QPictureViewer.exe	1a554b2ba1f38750

@@ -1,0 +1,21 @@
+# ninja log v6
+4	592	7625995207106422	QT_snake_autogen/timestamp	5f2bf7b0c3ae02f6
+4	592	7625995207106422	QT_snake_autogen/mocs_compilation.cpp	5f2bf7b0c3ae02f6
+4	592	7625995207106422	E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QT_snake_autogen/timestamp	5f2bf7b0c3ae02f6
+4	592	7625995207106422	E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QT_snake_autogen/mocs_compilation.cpp	5f2bf7b0c3ae02f6
+599	2847	7625995207930020	CMakeFiles/QT_snake.dir/main.cpp.obj	ba1c054a1d51c7fc
+596	2882	7625995207899806	CMakeFiles/QT_snake.dir/QT_snake_autogen/mocs_compilation.cpp.obj	5173aa8cf2b40183
+602	3032	7625995207965215	CMakeFiles/QT_snake.dir/mainwindow.cpp.obj	4677f9bfcfa26388
+3032	3235	7625995232258144	QT_snake.exe	1005c948f1866526
+24	154	7625995501092456	QT_snake_autogen/timestamp	5f2bf7b0c3ae02f6
+24	154	7625995501092456	QT_snake_autogen/mocs_compilation.cpp	5f2bf7b0c3ae02f6
+24	154	7625995501092456	E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QT_snake_autogen/timestamp	5f2bf7b0c3ae02f6
+24	154	7625995501092456	E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QT_snake_autogen/mocs_compilation.cpp	5f2bf7b0c3ae02f6
+154	2280	7625995502390073	CMakeFiles/QT_snake.dir/mainwindow.cpp.obj	4677f9bfcfa26388
+2281	2511	7625995523658301	QT_snake.exe	1005c948f1866526
+72	258	7626133930681067	QT_snake_autogen/timestamp	5f2bf7b0c3ae02f6
+72	258	7626133930681067	QT_snake_autogen/mocs_compilation.cpp	5f2bf7b0c3ae02f6
+72	258	7626133930681067	E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QT_snake_autogen/timestamp	5f2bf7b0c3ae02f6
+72	258	7626133930681067	E:/CODE/QT/QT_snake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QT_snake_autogen/mocs_compilation.cpp	5f2bf7b0c3ae02f6
+258	3081	7626133932547077	CMakeFiles/QT_snake.dir/mainwindow.cpp.obj	4677f9bfcfa26388
+3081	3877	7626133960781584	QT_snake.exe	1005c948f1866526

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a00610a0b0fb9a699998.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QProgressbar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QProgressbar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QProgressbar-Debug-69b9f7c565b69bdb3aff.json",
+					"name" : "QProgressbar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QProgressbar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QProgressbar_autogen-Debug-eae90ecdb4e4bdb1ce4b.json",
+					"name" : "QProgressbar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QProgressbar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QProgressbar_autogen_timestamp_deps-Debug-70cdc84fee4fbb961055.json",
+					"name" : "QProgressbar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CODE/QT/QProgressbar/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "E:/CODE/QT/QProgressbar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

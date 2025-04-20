@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-621a9181da43a09e2c6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QClock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QClock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QClock-Debug-166a5d0b30c91fed1fbc.json",
+					"name" : "QClock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QClock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QClock_autogen-Debug-a2b42d73d86ded0b6ea3.json",
+					"name" : "QClock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QClock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QClock_autogen_timestamp_deps-Debug-6c9d06c0cd2506a6ee5e.json",
+					"name" : "QClock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CODE/QT/QClock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "E:/CODE/QT/QClock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

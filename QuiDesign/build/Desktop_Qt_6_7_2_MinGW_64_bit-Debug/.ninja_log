@@ -1,0 +1,9 @@
+# ninja log v6
+8	461	7616500078919840	QuiDesign_autogen/timestamp	bfffeabb613e2d13
+8	461	7616500078919840	QuiDesign_autogen/mocs_compilation.cpp	bfffeabb613e2d13
+8	461	7616500078919840	E:/CODE/QT/QuiDesign/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QuiDesign_autogen/timestamp	bfffeabb613e2d13
+8	461	7616500078919840	E:/CODE/QT/QuiDesign/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QuiDesign_autogen/mocs_compilation.cpp	bfffeabb613e2d13
+471	2126	7616500079626440	CMakeFiles/QuiDesign.dir/main.cpp.obj	64b9dc150afb32ae
+468	2137	7616500079626440	CMakeFiles/QuiDesign.dir/QuiDesign_autogen/mocs_compilation.cpp.obj	753e5b710d772a15
+474	2178	7616500079698668	CMakeFiles/QuiDesign.dir/mainwindow.cpp.obj	b62562886b8903a1
+2178	2414	7616500096759662	QuiDesign.exe	25c4fdb59817a94b

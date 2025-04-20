@@ -1,0 +1,13 @@
+# ninja log v6
+820	3442	7615011439992113	CMakeFiles/Qslider.dir/mainwindow.cpp.obj	8e97cee50e2862a3
+814	3444	7615011439927498	CMakeFiles/Qslider.dir/Qslider_autogen/mocs_compilation.cpp.obj	fd27e0f7fb801e04
+112	808	7615011438215497	Qslider_autogen/mocs_compilation.cpp	f991d928d004b62a
+112	808	7615011438215497	E:/CODE/QT/Qslider/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qslider_autogen/mocs_compilation.cpp	f991d928d004b62a
+36	101	7619236827850837	E:/CODE/QT/Qslider/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7d4cbc764001bf26
+112	808	7615011438215497	Qslider_autogen/timestamp	f991d928d004b62a
+112	808	7615011438215497	E:/CODE/QT/Qslider/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qslider_autogen/timestamp	f991d928d004b62a
+3445	3728	7615011466245876	Qslider.exe	490c84ec8e6379d8
+817	3443	7615011439961799	CMakeFiles/Qslider.dir/main.cpp.obj	e15a27bb67e1ae4c
+101	1545	7619236841563501	build.ninja	19c7a273b16d1533
+19	82	7619236842746384	E:/CODE/QT/Qslider/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7d4cbc764001bf26
+11	66	7619237574983527	E:/CODE/QT/Qslider/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7d4cbc764001bf26

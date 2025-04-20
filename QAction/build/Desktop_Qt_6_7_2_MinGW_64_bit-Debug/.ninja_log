@@ -1,0 +1,15 @@
+# ninja log v6
+4	543	7625875926705562	QAction_autogen/timestamp	47f2204681a3c3dc
+4	543	7625875926705562	QAction_autogen/mocs_compilation.cpp	47f2204681a3c3dc
+4	543	7625875926705562	E:/CODE/QT/QAction/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QAction_autogen/timestamp	47f2204681a3c3dc
+4	543	7625875926705562	E:/CODE/QT/QAction/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QAction_autogen/mocs_compilation.cpp	47f2204681a3c3dc
+552	2461	7625875927718823	CMakeFiles/QAction.dir/main.cpp.obj	92bff7c5ad995b2c
+549	2487	7625875927688818	CMakeFiles/QAction.dir/QAction_autogen/mocs_compilation.cpp.obj	ce5502a8e05e05ef
+555	2571	7625875927748833	CMakeFiles/QAction.dir/mainwindow.cpp.obj	b2f16882753178f7
+2571	2781	7625875947910579	QAction.exe	2cdd74b26cc99825
+9	146	7625876378455249	QAction_autogen/timestamp	47f2204681a3c3dc
+9	146	7625876378455249	QAction_autogen/mocs_compilation.cpp	47f2204681a3c3dc
+9	146	7625876378455249	E:/CODE/QT/QAction/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QAction_autogen/timestamp	47f2204681a3c3dc
+9	146	7625876378455249	E:/CODE/QT/QAction/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QAction_autogen/mocs_compilation.cpp	47f2204681a3c3dc
+146	1760	7625876379837137	CMakeFiles/QAction.dir/mainwindow.cpp.obj	b2f16882753178f7
+1760	1910	7625876395968232	QAction.exe	2cdd74b26cc99825

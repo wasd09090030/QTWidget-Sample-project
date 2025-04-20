@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c822d6996132aeea9ab7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QAction",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QAction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QAction-Debug-e25e5693fe5bb763118c.json",
+					"name" : "QAction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QAction_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QAction_autogen-Debug-248d5d8263768a4af301.json",
+					"name" : "QAction_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QAction_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QAction_autogen_timestamp_deps-Debug-309ee3e3bf982a2d74f4.json",
+					"name" : "QAction_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CODE/QT/QAction/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "E:/CODE/QT/QAction"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

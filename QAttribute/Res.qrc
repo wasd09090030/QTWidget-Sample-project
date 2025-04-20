@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RES/button.png</file>
+        <file>RES/whatsapp_2504957.png</file>
+    </qresource>
+</RCC>

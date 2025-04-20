@@ -1,0 +1,27 @@
+# ninja log v6
+3	555	7619976154096056	Qcheckbox_autogen/timestamp	305466683785a7d6
+3	555	7619976154096056	Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+3	555	7619976154096056	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/timestamp	305466683785a7d6
+3	555	7619976154096056	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+563	3035	7619976155102491	CMakeFiles/Qcheckbox.dir/main.cpp.obj	52115d5fc75d9159
+566	3209	7619976155136676	CMakeFiles/Qcheckbox.dir/mainwindow.cpp.obj	59fa1ec72e8f7721
+559	3219	7619976155063306	CMakeFiles/Qcheckbox.dir/Qcheckbox_autogen/mocs_compilation.cpp.obj	3940a181fe7e8853
+3220	3413	7619976181658777	Qcheckbox.exe	af89261afdb6a7ae
+30	168	7619977361533715	Qcheckbox_autogen/timestamp	305466683785a7d6
+30	168	7619977361533715	Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+30	168	7619977361533715	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/timestamp	305466683785a7d6
+30	168	7619977361533715	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+168	2131	7619977362914757	CMakeFiles/Qcheckbox.dir/mainwindow.cpp.obj	59fa1ec72e8f7721
+2131	2328	7619977382532021	Qcheckbox.exe	af89261afdb6a7ae
+26	150	7619978904767195	Qcheckbox_autogen/timestamp	305466683785a7d6
+26	150	7619978904767195	Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+26	150	7619978904767195	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/timestamp	305466683785a7d6
+26	150	7619978904767195	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+151	1846	7619978906017848	CMakeFiles/Qcheckbox.dir/mainwindow.cpp.obj	59fa1ec72e8f7721
+1846	1997	7619978922968172	Qcheckbox.exe	af89261afdb6a7ae
+25	144	7619980719064275	Qcheckbox_autogen/timestamp	305466683785a7d6
+25	144	7619980719064275	Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+25	144	7619980719064275	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/timestamp	305466683785a7d6
+25	144	7619980719064275	E:/CODE/QT/Qcheckbox/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Qcheckbox_autogen/mocs_compilation.cpp	305466683785a7d6
+144	2082	7619980720251660	CMakeFiles/Qcheckbox.dir/mainwindow.cpp.obj	59fa1ec72e8f7721
+2082	2307	7619980739630643	Qcheckbox.exe	af89261afdb6a7ae
